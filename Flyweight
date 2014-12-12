@@ -1,0 +1,13 @@
+Important Resources:
+NOTE: Please understand the extrinsic and intrinsic properties.
+Intrinsic : Properties that are constant. As this is somthing which is not going to change hence it is stored in the main memory
+Extrinsic : Properties that are NOT constant and hence needs to be calculated on the FLY. As this is not constant, hence 
+            not stored in the main memory. HENCE THE NAME FLYWEIGHT PATTERN
+
+So a flyweight design pattern factors out all intrinsic duplicity 
+- the shape/outline/black color - then the extrinsic (color fill) is calculated on the fly.  Right?﻿
+Ans. YES
+
+https://www.youtube.com/watch?v=lY3ilaxi-7o
+https://www.youtube.com/watch?v=y2Qpu4c-wN4
+https://www.youtube.com/watch?v=SKZQx1DdA9U
